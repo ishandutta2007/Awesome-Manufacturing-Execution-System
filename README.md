@@ -61,9 +61,9 @@ The SaaS and commercial MES market ranges from enterprise suites to agile no-cod
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-Open-source MES platforms provide self-hosted control, zero license fees, and deep customization for small-to-mid-size manufacturers. Sorted by GitHub Star Count (descending):
+Open-source MES platforms provide self-hosted control, zero license fees, and deep customization for small-to-mid-size manufacturers. Sorted by GitHub Stars_Count (descending):
 
-| Repository 📦 | Description & Capabilities 📝 | License 📜 | Star Count ⭐ |
+| Repository 📦 | Description & Capabilities 📝 | License 📜 | Stars_Count ⭐ |
 | :--- | :--- | :--- | :--- |
 | **[InvenTree](https://github.com/inventree/InvenTree)** | Open-source inventory, work-order management, and production tracking system with build management and part genealogy. | MIT | <a href="https://github.com/inventree/InvenTree/stargazers"><img src="https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white" alt="InvenTree Stars"/></a> |
 | **[Carbon](https://github.com/crbnos/carbon)** | Open-core ERP + MES + QMS platform for complex assembly, contract manufacturing, lot/serial genealogy, and shop-floor execution. | AGPL-3.0 | <a href="https://github.com/crbnos/carbon/stargazers"><img src="https://img.shields.io/github/stars/crbnos/carbon?style=social&color=white" alt="Carbon Stars"/></a> |
